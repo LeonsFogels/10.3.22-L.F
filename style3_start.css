@@ -1,0 +1,27 @@
+/* Šeit ir jāieraksta stils */
+.header{
+    background-color:purple;
+        width: 50%;
+        border: 15px;
+        padding: 30px;
+        margin: 10px;
+      }
+.header{
+    color:white;
+     }
+     p.solid {border-style: solid;}
+
+.content{  
+    width: 50%;
+    border:1px solid black;
+    padding: 30px;
+    margin: 10px;
+}
+.footer{
+    color:white;
+    background-color:purple;
+    width: 50%;
+    border: 15px;
+    padding: 30px;
+    margin: 10px; 
+}
